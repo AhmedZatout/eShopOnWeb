@@ -9,7 +9,7 @@ env:
   LOCATION: eastus
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
   SUBSCRIPTION-ID: 62ce49b9-e901-4304-89fb-ac00dcd9096e
-  WEBAPP-NAME: z3tout_app
+  WEBAPP-NAME: z3tout-app
 
 
 jobs:
